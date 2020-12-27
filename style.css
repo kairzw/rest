@@ -31,10 +31,10 @@ body {
 }
 .input-adress {
     flex: 0.8;
-    background-image: url(../img/home.svg);
+    background-image: url(../home.svg);
 }
 .input-search {
-    background-image: url(../img/search.svg);
+    background-image: url(../search.svg);
     width: 300px;
 }
 .buttons {
@@ -65,7 +65,7 @@ body {
 }
 .banner {
     box-shadow: 0px 7px 12px rgba(158, 158, 163, 0.1);
-    background: #fff1b8 url(../img/banner-pizza1.png);
+    background: #fff1b8 url(../banner-pizza1.png);
     background-repeat: no-repeat;
     background-position: top right -500px;
     border-radius: 10px;
